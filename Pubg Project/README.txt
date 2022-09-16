@@ -1,0 +1,1 @@
+Download the data set "train_V2" from kaggle "https://www.kaggle.com/competitions/pubg-finish-placement-prediction/data" 
